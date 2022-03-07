@@ -1,8 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:incum_tracker/main.dart';
+import 'package:incumtracker/main.dart';
 
-const String AppTitle = "Incum Tracker";
+// const String AppTitle = "Incum Tracker";
+String AppTitle = "Welcome ${username.text}";
 
 // -------------------------------------------------
 // Custom Form
